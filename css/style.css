@@ -151,7 +151,7 @@ body {
     padding: 0;
     height: 70vh;
     width: 100%;
-    background: #333 url('/assets/blur-chart-data-159888.jpg');
+    background: #333 url('../assets/blur-chart-data-159888.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
