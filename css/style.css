@@ -85,6 +85,7 @@ body {
     justify-content: center;
     align-items: center;
     z-index: -1;
+    text-align: center;
 }
 
 #section-a h1 {
@@ -147,6 +148,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
     margin: 0;
     padding: 0;
     height: 70vh;
@@ -176,4 +178,5 @@ body {
     height: 30vh;
     background-color: lightgray;
     color: black;
+    text-align: center;
 }
